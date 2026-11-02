@@ -1,0 +1,43 @@
+- generic [ref=f1e406]:
+  - generic [ref=f1e407]:
+    - banner [ref=f1e408]:
+      - generic [ref=f1e409]:
+        - generic:
+          - generic:
+            - generic [ref=f1e410]:
+              - button "Open Menu" [ref=f1e411] [cursor=pointer]
+              - img "Open Menu" [ref=f1e412]
+            - generic [ref=f1e439]:
+              - navigation [ref=f1e441]:
+                - button "All Items" [active] [ref=f1e442] [cursor=pointer]
+                - button "Dynamic Catalog" [ref=f1e443] [cursor=pointer]
+                - link "About" [ref=f1e445] [cursor=pointer]:
+                  - /url: https://saucelabs.com/
+                - button "Logout" [ref=f1e446] [cursor=pointer]
+                - button "Reset App State" [ref=f1e447] [cursor=pointer]
+              - generic [ref=f1e448]:
+                - button "Close Menu" [ref=f1e449] [cursor=pointer]
+                - img "Close Menu" [ref=f1e450]
+        - generic [ref=f1e413]: Swag Labs
+        - button "Cart, empty" [ref=f1e416]
+      - button "Back to products" [ref=f1e419] [cursor=pointer]
+    - main [ref=f1e420]:
+      - generic [ref=f1e422]:
+        - img "Sauce Labs Onesie" [ref=f1e424]
+        - generic [ref=f1e425]:
+          - generic [ref=f1e426]: Sauce Labs Onesie
+          - generic [ref=f1e427]: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+          - generic [ref=f1e428]: $7.99
+          - button "Add to cart" [ref=f1e429] [cursor=pointer]
+  - contentinfo [ref=f1e430]:
+    - list [ref=f1e431]:
+      - listitem [ref=f1e432]:
+        - link "X" [ref=f1e433] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=f1e434]:
+        - link "Facebook" [ref=f1e435] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=f1e436]:
+        - link "LinkedIn" [ref=f1e437] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=f1e438]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
